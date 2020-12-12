@@ -4,8 +4,8 @@ Tecnologias utilizadas: Express, Sequelize, SQLite3 e padrão MVC.
 
 # Inicialização:
 
-Instalar as dependencias: `npm install`
-Inicializar a aplicação: `npm start` (Inicializa o servidor)
+Instalar as dependencias: `yarn install`
+Inicializar a aplicação: `yarn start` (Inicializa o servidor)
 
 # Rotas: 
 
