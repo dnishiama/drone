@@ -1,11 +1,17 @@
 # API de Controle de entregas por drones (teste da SoluCX):
 
-Tecnologias utilizadas: Express, Sequelize, SQLite3 e padrão MVC.
+# Tecnologias utilizadas: 
+- Javascript
+- Express
+- Sequelize
+- SQLite3 
+- Padrão MVC
 
 # Inicialização:
 
 Instalar as dependencias: `yarn install`
-Inicializar a aplicação: `yarn start` (Inicializa o servidor)
+
+Inicializar a aplicação: `yarn start` 
 
 # Rotas: 
 
