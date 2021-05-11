@@ -1,19 +1,19 @@
-# API de Controle de entregas por drones (teste da SoluCX):
+## API de Controle de entregas por drones (teste da SoluCX):
 
-# Tecnologias utilizadas: 
+### Tecnologias utilizadas: 
 - Javascript
 - Express
 - Sequelize
 - SQLite3 
 - Padrão MVC
 
-# Inicialização:
+### Inicialização:
 
 Instalar as dependencias: `yarn install`
 
 Inicializar a aplicação: `yarn start` 
 
-# Rotas: 
+### Rotas: 
 
 Rota para listar todos os drones:
 http://localhost:8080/drones/listar 
